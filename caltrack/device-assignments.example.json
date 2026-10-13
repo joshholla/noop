@@ -1,0 +1,32 @@
+{
+  "status": "proposed-configuration-not-loaded-by-noop",
+  "schemaVersion": 1,
+  "transport": "reviewed-file",
+  "profiles": [
+    {
+      "profileId": "you",
+      "installationId": null,
+      "deviceId": null,
+      "deviceFamily": null,
+      "assignedAt": null,
+      "timeZone": "America/Los_Angeles"
+    },
+    {
+      "profileId": "partner",
+      "installationId": null,
+      "deviceId": null,
+      "deviceFamily": null,
+      "assignedAt": null,
+      "timeZone": "America/Los_Angeles"
+    }
+  ],
+  "export": {
+    "automaticEnabled": false,
+    "endpoint": null
+  },
+  "backup": {
+    "nativeFormat": "noopbak",
+    "archiveEncryption": "required-before-cloud-copy",
+    "cloudDestination": null
+  }
+}
